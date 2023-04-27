@@ -2,8 +2,8 @@ body {
     font-family: sans-serif;
     line-height: 1.5;
   
-    background-color: linear-gradient(to bottom, #eee, #f9d1c7);
-    color: #333;
+    background-color: linear-gradient(to bottom, #f7b9d0, #e865a0);
+    color: #feb7e6;
   
     width: 980px;
     margin: 0 auto;
@@ -19,15 +19,15 @@ body {
   main > h2 {
     text-align: center;
     font-size: 25px;
-    color: #f55d8e
+    color: #212121 ;
   }
 section > p {
-    color: #f55d8e;
+    color:#4d4d4d ;
   text-decoration: none;
   transition: all 0.3s ease;
 }
 ul> li {
-    color: #f55d8e;
+    color: #4d4d4d;
   text-decoration: none;
   transition: all 0.3s ease;
 }
